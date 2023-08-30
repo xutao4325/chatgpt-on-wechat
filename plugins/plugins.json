@@ -28,7 +28,7 @@
             "enabled": false,
             "priority": 0
         },
-        "replicate": {
+        "Replicate": {
             "enabled": true,
             "priority": 0
         },

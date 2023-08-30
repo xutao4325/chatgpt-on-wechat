@@ -12,11 +12,23 @@
             "enabled": false,
             "priority": 100
         },
+        "replicate": {
+            "enabled": true,
+            "priority": 1
+        },
+        "tool": {
+            "enabled": true,
+            "priority": 0
+        },
         "linkai": {
             "enabled": true,
             "priority": 0
         },
         "Role": {
+            "enabled": true,
+            "priority": 0
+        },
+        "Replicate": {
             "enabled": true,
             "priority": 0
         },
@@ -26,10 +38,6 @@
         },
         "BDunit": {
             "enabled": false,
-            "priority": 0
-        },
-        "Replicate": {
-            "enabled": true,
             "priority": 0
         },
         "Hello": {

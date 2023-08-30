@@ -81,6 +81,16 @@
             },
             {
             "keywords": [
+                "高清"
+            ],
+            "params": {
+                "enable_hr": true,
+                "hr_scale": 1.6
+            },
+            "desc": "高清图片"
+            },
+            {
+            "keywords": [
                 "二次元"
             ],
             "params": {

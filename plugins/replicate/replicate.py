@@ -8,11 +8,11 @@ from bridge.reply import Reply, ReplyType
 from config import conf
 import plugins
 from plugins import *
-from common.log import logger
 import replicate
+from common.log import logger
 from common.expired_dict import ExpiredDict
 
-@plugins.register(name="replicate", desc="利用replicate api来画图", version="0.3", author="lanvent")
+@plugins.register(name="replicate", desire_priority=1, desc="利用replicate api来画图", version="0.3", author="lanvent")
 class Replicate(Plugin):
     def __init__(self):
         super().__init__()

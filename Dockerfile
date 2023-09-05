@@ -1,3 +1,3 @@
-FROM ghcr.io/hyqskevin/chatgpt-on-wechat:dev-arm64
+FROM ghcr.io/hyqskevin/chatgpt-on-wechat:latest
 
 ENTRYPOINT ["/entrypoint.sh"]

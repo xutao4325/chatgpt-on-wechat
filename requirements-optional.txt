@@ -28,9 +28,11 @@ chatgpt_tool_hub==0.4.6
 # xunfei spark
 websocket-client==1.2.0
 
-
 # claude bot
 curl_cffi
+
+# tongyi qwen
+broadscope_bailian
 
 # replicate
 urllib3>=1.26.0

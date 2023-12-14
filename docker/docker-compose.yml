@@ -6,8 +6,8 @@ services:
     security_opt:
       - seccomp:unconfined
     environment:
-      OPEN_AI_API_KEY: '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'
-      MODEL: 'gpt-3.5-turbo-16k'
+      OPEN_AI_API_KEY: ''
+      MODEL: ''
       PROXY: ''
       SINGLE_CHAT_PREFIX: '["雪球", "@雪球"]'
       SINGLE_CHAT_REPLY_PREFIX: '"[雪球] "'

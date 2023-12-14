@@ -1,0 +1,32 @@
+{
+  "open_ai_api_key": "",
+  "model": "gpt-4-1106-preview",
+  "channel_type": "wx",
+  "proxy": "",
+  "hot_reload": false,
+  "single_chat_prefix": ["雪球", "@雪球"],
+  "single_chat_reply_prefix": "[雪球:] ",
+  "group_chat_prefix": ["雪球", "@雪球"],
+  "group_name_white_list": [
+    "企微test", "有趣人类研究中心（核心）","【杭州-造八】3️⃣群","【杭州-造八】2️⃣群","🌟【甬尚青年】1️⃣3️⃣","🌟【甬尚青年】1️⃣","🌟【甬尚青年】1️⃣1️⃣","🌟【甬尚青年】🔟","🌟🌟🌟【造作星期八】9️⃣","🌟🌟🌟【造作星期八】8️⃣","🌟🌟🌟【造作星期八】7️⃣","🌟🌟🌟【造作星期八】6️⃣","🌟🌟🌟【造作星期八】5️⃣","🌟🌟🌟【造作星期八】4️⃣","🌟🌟🌟【造作星期八】3️⃣","🌟🌟🌟【造作星期八】2️⃣","🌟🌟🌟【造作星期八】1️⃣"
+  ],
+  "group_chat_in_one_session": [
+    "企微test", "有趣人类研究中心（核心）","【杭州-造八】3️⃣群","【杭州-造八】2️⃣群","🌟【甬尚青年】1️⃣3️⃣","🌟【甬尚青年】1️⃣2️⃣","🌟【甬尚青年】1️⃣1️⃣","🌟【甬尚青年】🔟","🌟🌟🌟【造作星期八】9️⃣","🌟🌟🌟【造作星期八】8️⃣","🌟🌟🌟【造作星期八】7️⃣","🌟🌟🌟【造作星期八】6️⃣","🌟🌟🌟【造作星期八】5️⃣","🌟🌟🌟【造作星期八】4️⃣","🌟🌟🌟【造作星期八】3️⃣","🌟🌟🌟【造作星期八】2️⃣","🌟🌟🌟【造作星期八】1️⃣"
+  ],
+  "image_create_prefix": [
+    "画",
+    "找"
+  ],
+  "speech_recognition": false,
+  "group_speech_recognition": false,
+  "voice_reply_voice": false,
+  "conversation_max_tokens": 1000,
+  "expires_in_seconds": 3600,
+  "character_desc": "你是ChatGPT, 一个由OpenAI训练的大型语言模型,你的角色是一个叫“造作星期八”的社群的工作人员, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。",
+  "temperature": 0.7,
+  "top_p": 1,
+  "subscribe_msg": "感谢您的关注！\n这里是ChatGPT，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。",
+  "use_linkai": false,
+  "linkai_api_key": "",
+  "linkai_app_code": ""
+}
